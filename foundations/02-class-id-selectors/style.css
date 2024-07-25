@@ -6,3 +6,14 @@ p {
 .number_3 {
     font-size: 24px;
 }
+
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
